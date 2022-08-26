@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: get a full time job as a developer jr && continue my journey in another country<br>🎲 Hobbies: video games</p>
+<p align="left">✨ Coding since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: get a full time job as a developer jr && continue my journey in another country<br>🎲 Hobbies: video games and music lover</p>
 
 ###
 
