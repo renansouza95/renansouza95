@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Renan and I'm a full-stack developer from São Paulo, Brazil 🇧🇷</p>
+<p align="left">Excited about JavaScript, TypeScript, React, Nodejs and MySQL</p>
 
 ###
 
