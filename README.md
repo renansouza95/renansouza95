@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Renan and I'm a full-stack developer from São Paulo, Brazil 🇧🇷</p>
+<p align="left">My name is Renan Souza and I'm a full-stack developer junior from São Paulo, Brazil 🇧🇷</p>
 <p align="left">Excited about JavaScript, TypeScript, React, Nodejs and MySQL</p>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: get a full time job earning in dollars && eventually move to Canada<br>🎲 Hobbies: video games</p>
+<p align="left">✨ Coding since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: get a full time job as a developer jr && continue my journey in another country<br>🎲 Hobbies: video games</p>
 
 ###
 
