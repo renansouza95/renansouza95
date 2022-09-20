@@ -7,6 +7,15 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/souzarenan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/renansouza95?tab=repositories" target="_blank">
+    <img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive" />
+  </a>
+</div>
+
 <h2 align="left">About me</h2>
 
 ###
