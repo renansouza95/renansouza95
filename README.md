@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Renan Souza and I'm a Full Stack Software Developer from São Paulo, Brazil 🇧🇷</p>
-<p align="left">I am currently working at [Younner](https://www.younner.com) since April, 2023.
+<p align="left">I am currently working at [Younner](https://www.younner.com) since April, 2023</p>
 
 ###
 
