@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Renan Souza and I'm a full-stack developer junior from São Paulo, Brazil 🇧🇷</p>
-<p align="left">Excited about JavaScript, TypeScript, React, Nodejs and MySQL</p>
+<p align="left">My name is Renan Souza and I'm a Full Stack Software Developer from São Paulo, Brazil 🇧🇷</p>
+<p align="left">I am currently working at [Younner](https://www.younner.com) since April, 2023.
 
 ###
 
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/renansouza95?tab=repositories" target="_blank">
-    <img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive" />
+    <img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive" height="40" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: get a full time job as a developer jr && continue my journey in another country<br>🎲 Hobbies: video games and music lover</p>
+<p align="left">✨ Debugging since 2021<br>📚 I'm currently learning PHP<br>🎯 Goals: Solving problems and then questioning why they even work in the first place<br>🎲 Hobbies: video games and music lover</p>
 
 ###
 
