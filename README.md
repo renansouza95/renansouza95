@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Renan Souza and I'm a Full Stack Software Developer from São Paulo, Brazil 🇧🇷</p>
+<p align="left">My name is Renan Souza and I'm a Frontend Developer from São Paulo, Brazil 🇧🇷</p>
 <p align="left">I am currently working at <a href="https://www.younner.com" target="_blank">Younner</a> since April, 2023</p>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Debugging since 2021<br>📚 I'm currently learning PHP<br>🎯 Goals: Solving problems and then questioning why they even work in the first place<br>🎲 Hobbies: video games and music lover</p>
+<p align="left">✨ Debugging since 2021<br>📚 Currently learning React Native for mobile applications<br>🎯 Goals: Solving problems and then questioning why they even work in the first place<br>🎲 Hobbies: video games and music lover</p>
 
 ###
 
