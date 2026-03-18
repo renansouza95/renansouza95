@@ -2,8 +2,9 @@
 
 ###
 
-<p align="left">My name is Renan Souza and I'm a Frontend Developer from São Paulo, Brazil 🇧🇷</p>
+<p align="left">My name is Renan Souza and I'm a Web Developer from São Paulo, Brazil 🇧🇷</p>
 <p align="left">I am currently working at <a href="https://www.younner.com" target="_blank">Younner</a> since April, 2023</p>
+<p align="left">I am also studying Software Analysis and Development at <a href="https://www.mackenzie.br/" target="_blank">Mackenzie</a></p>
 
 ###
 
