@@ -71,7 +71,7 @@ A full-featured digital platform delivered as three integrated products, each bu
 
 ---
 
-#### [`juntos-web`](https://github.com/renansouza95/juntos-web) — Aplicação Web / Web Application
+#### juntos-web — Aplicação Web / Web Application
 > **React · Vite · Material UI · Socket.IO · Docker**
 
 <table>
@@ -109,7 +109,7 @@ The main web client for the Juntos platform. A rich, responsive single-page appl
 
 ---
 
-#### [`juntos-mobile-app`](https://github.com/renansouza95/juntos-mobile-app) — App Mobile (iOS & Android)
+#### juntos-mobile-app — App Mobile (iOS & Android)
 > **React Native · Redux · Firebase · CodePush**
 
 <table>
@@ -151,7 +151,7 @@ Cross-platform mobile app for iOS and Android, packed with advanced features inc
 
 ---
 
-#### [`juntos-backoffice-core`](https://github.com/renansouza95/juntos-backoffice-core) — Backoffice & API
+#### juntos-backoffice-core — Backoffice & API
 > **Laravel 10 · PHP 8.1 · MySQL · Redis · AWS S3 · Docker**
 
 <table>
